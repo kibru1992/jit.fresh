@@ -1,0 +1,78 @@
+.container{
+  max-width: 60rem;
+  padding: 0;
+  margin-left:  200px auto;
+  justify-content: center;
+}
+
+p2{
+    float: left;
+    align-items: center;
+    padding-bottom: 20px;
+    color:black;
+    font-weight: bolder;
+}
+.feild{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+body{
+
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  
+  background-image: url("kito.jpg");
+  background-color: gray;  
+  background-repeat:initial;
+  opacity: .7;
+}
+form{
+   width: 300px;
+   border: 2px solid #ccc;
+   padding: 30px;
+   background: gray;
+   border-radius: 15px;
+   align-items: center;
+   /* float: right; */
+   
+}
+h1{
+  text-align: center;
+  justify-content: center;
+  
+  /* font-weight: bolder; */
+}
+input{
+  display: block;
+  border: 2px solid #ccc;
+  margin: 0px auto;
+  border-radius: 5px;
+  /* width: 95%; */
+  /* padding: 10px; */
+}
+lable
+{
+  font-size:  18px;
+  padding: 10px;
+}
+footer{
+  text-align:center;
+  font-size: larger;
+ 
+}
+p3{
+  font-weight: bolder;
+}
+
+footer p2{
+  color: #ccc;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+.jit{
+  cursor: pointer;
+  float:right;
+}
